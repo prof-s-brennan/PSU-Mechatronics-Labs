@@ -1,5 +1,5 @@
 # ME454_Labs
-Labs for ME 454
+Dr. Brennan's repo of lab materials for PSU's Mechatronics Course, ME 454
 
 ***
 
@@ -8,7 +8,7 @@ See the course Wiki for more information
 
 ***
 Revisions:
-* 2020_07_10 - pushed code to repo from Box
+* 2020_07_10 - pushed code to repo from Box, added links to existing labs
 
 ***
 # Lab 0 - Introduction
